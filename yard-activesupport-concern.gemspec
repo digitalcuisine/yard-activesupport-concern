@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'yard/activesupport/concern/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "yard-activesupport-concern"
+  spec.name          = 'yard-activesupport-concern'
   spec.version       = YARD::ActiveSupport::Concern::VERSION
   spec.authors       = ['Olivier Lance @ Digital cuisine']
   spec.email         = ['olivier@digitalcuisine.fr']
