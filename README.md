@@ -1,6 +1,7 @@
 # YARD ActiveSupport::Concern Plugin
 
 [![Version](http://img.shields.io/gem/v/yard-activesupport-concern.svg?style=flat-square)](https://rubygems.org/gems/yard-activesupport-concern)
+[![Dependencies](https://img.shields.io/gemnasium/digitalcuisine/yard-activesupport-concern.svg?style=flat-square)](https://gemnasium.com/digitalcuisine/yard-activesupport-concern)
 [![Downloads](http://img.shields.io/gem/dt/yard-activesupport-concern.svg?style=flat-square)](https://rubygems.org/gems/yard-activesupport-concern)
 [![Open Github issues](http://img.shields.io/github/issues/digitalcuisine/yard-activesupport-concern.svg?style=flat-square)](https://github.com/digitalcuisine/yard-activesupport-concern/issues)
 
