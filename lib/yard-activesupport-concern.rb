@@ -1,4 +1,4 @@
-require 'yard/activesupport/concern/version'
+require 'yard-activesupport-concern/version'
 require 'yard'
 
 module YARD
