@@ -46,6 +46,8 @@ Or install the gem globally:
 
 You can then use the plugin using the `--plugin activesupport-concern` command-line option or by instructing YARD to always load all available plugins: `yard config load_plugins true` (see [the docs](http://www.rubydoc.info/gems/yard/YARD/Config#load_plugins-class_method))
 
+If you're using a `.yardopts` file, just add the `--plugin activesupport-concern` option to it.
+
 That's it!
 
 
